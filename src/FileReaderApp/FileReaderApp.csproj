@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>netcoreapp2.2</TargetFramework>
+		<AssemblyName>Exercise_3.FileReaderApp</AssemblyName>
+		<RootNamespace>Exercise_3.FileReaderApp</RootNamespace>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\FileReader\FileReader.csproj" />
+	</ItemGroup>
+
+</Project>
